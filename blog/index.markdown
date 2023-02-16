@@ -1,6 +1,8 @@
+# Autores
+
 - [Nietzsche(1844-1900)](./_posts/Nietzsche/index.md)
 
-# De que cojones va todo esto.
+## De que cojones va todo esto.
 
 Seguro que algunos filósofos me "mataríais" por hacer esto. Siempre me ha gustado la filosofía desde que la estudié en BUP. Al final, nunca tiré por ahí, pero me gustaba. Y aún me gustó más cuando unos filósofos geniales nos la acercaron en el CSOA "Garúa" de Valencia. La lástima es que fueron pocas sesiones, pues para ellos imagino que sería un poco aburrido. Pero para los que asistimos fue una pasada. Cuando un tema decaía, salía a flote una conversación que daba para mucho. Eso, para aquellos que no teníamos ni idea; para un filósofo, seguro que ha dado para un libro o una vida.
 
