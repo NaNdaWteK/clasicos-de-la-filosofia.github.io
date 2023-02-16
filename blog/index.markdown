@@ -1,4 +1,4 @@
-- [Nietzsche(1844-1900)](./Nietzsche/index.md)
+- [Nietzsche(1844-1900)](./_posts/Nietzsche/index.md)
 
 # De que cojones va todo esto.
 
