@@ -1,6 +1,7 @@
 # Autores
 
 - [Nietzsche(1844-1900)](./blog/Nietzsche/index.md)
+- [Emma_Goldman(1869-1940)](./blog/Emma_Goldman/index.md)
 
 ## De que cojones va todo esto.
 
